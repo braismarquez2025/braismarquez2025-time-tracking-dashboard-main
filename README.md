@@ -1,4 +1,4 @@
-# Frontend Mentor - Solución de componentes de código QR
+# Frontend Mentor - Solución de panel de seguimiento de horas
 
 Esta es una solución al [desafío de panel de seguimiento de horas en Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
